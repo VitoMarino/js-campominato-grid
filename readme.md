@@ -5,3 +5,9 @@ Consigli del giorno:
 Scriviamo prima cosa vogliamo fare passo passo in italiano, dividiamo il lavoro in micro problemi.
 Ad esempio: Di cosa ho bisogno per generare i numeri?
 Proviamo sempre prima con dei console.log() per capire se stiamo ricevendo i dati giusti. Le validazioni e i controlli possiamo farli anche in un secondo momento.
+
+PSEUDOCODICE
+1. Creazione nel DOM di un div quadrato e assegnare dimensione.
+2. Creazione griglie nel quadrato.
+    - Aggiungere tramite JS nel DOM gli elementi che contengono i numeri da 1 a 100.
+    - Ogni griglia ha una sua dimensione, quindi dovrò DIVIDERE il quadrato in 100 parti.
