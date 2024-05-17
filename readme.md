@@ -10,4 +10,9 @@ PSEUDOCODICE
 1. Creazione nel DOM di un div quadrato e assegnare dimensione.
 2. Creazione griglie nel quadrato.
     - Aggiungere tramite JS nel DOM gli elementi che contengono i numeri da 1 a 100.
-    - Ogni griglia ha una sua dimensione, quindi dovrò DIVIDERE il quadrato in 100 parti.
+    - Ogni griglia ha una sua dimensione, quindi dovrò DIVIDERE il quadrato in 100 parti / 10.
+3. Ciclo for per generare numeri da 1 a 100 nei vari article.
+4. Mettere in ascolto i vari article.
+5. Aggiungere la classe ACTIVE.
+6. Mettere griglia in display none
+    - Quando clicco bottone play (displa inline)
